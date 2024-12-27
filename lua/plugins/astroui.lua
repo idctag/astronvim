@@ -34,4 +34,7 @@ return {
       LSPLoading10 = "⠏",
     },
   },
+  require("kanagawa").setup {
+    transparent = true,
+  },
 }
